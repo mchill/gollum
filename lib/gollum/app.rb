@@ -477,7 +477,9 @@ module Precious
     end
 
     get '/*' do
-      show_page_or_file(params[:splat].first)
+      path = params[:splat].first
+      path.slice! ".html"
+      show_page_or_file(path)
     end
 
     def show_page_or_file(fullpath)
