@@ -591,292 +591,293 @@ a:active, a:hover {
   background: #fff;
 }
 
-.highlight .c {
+.highlight .c,.tok-c {
   color: #998;
   font-style: italic;
 }
 
-.highlight .err {
+.highlight .err,.tok-err {
   color: #a61717;
   background-color: #e3d2d2;
 }
 
-.highlight .k {
+.highlight .k,.tok-k {
   font-weight: bold;
 }
 
-.highlight .o {
+.highlight .o,.tok-o {
   font-weight: bold;
 }
 
-.highlight .cm {
+.highlight .cm,.tok-cm {
   color: #998;
   font-style: italic;
 }
 
-.highlight .cp {
+.highlight .cp,.tok-cp {
   color: #999;
   font-weight: bold;
 }
 
-.highlight .c1 {
+.highlight .c1,.tok-c1 {
   color: #998;
   font-style: italic;
 }
 
-.highlight .cs {
+.highlight .cs,.tok-cs {
   color: #999;
   font-weight: bold;
   font-style: italic;
 }
 
-.highlight .gd {
+.highlight .gd,.tok-gd {
   color: #000;
   background-color: #fdd;
 }
 
-.highlight .gd .x {
+.highlight .gd,.tok-gd .x,.tok-x {
   color: #000;
   background-color: #faa;
 }
 
-.highlight .ge {
+.highlight .ge,.tok-ge {
   font-style: italic;
 }
 
-.highlight .gr {
+.highlight .gr,.tok-gr {
   color: #a00;
 }
 
-.highlight .gh {
+.highlight .gh,.tok-gh {
   color: #999;
 }
 
-.highlight .gi {
+.highlight .gi,.tok-gi {
   color: #000;
   background-color: #dfd;
 }
 
-.highlight .gi .x {
+.highlight .gi,.tok-gi .x,.tok-x {
   color: #000;
   background-color: #afa;
 }
 
-.highlight .go {
+.highlight .go,.tok-go {
   color: #888;
 }
 
-.highlight .gp {
+.highlight .gp,.tok-gp {
   color: #555;
 }
 
-.highlight .gs {
+.highlight .gs,.tok-gs {
   font-weight: bold;
 }
 
-.highlight .gu {
+.highlight .gu,.tok-gu {
   color: #800080;
   font-weight: bold;
 }
 
-.highlight .gt {
+.highlight .gt,.tok-gt {
   color: #a00;
 }
 
-.highlight .kc {
+.highlight .kc,.tok-kc {
   font-weight: bold;
 }
 
-.highlight .kd {
+.highlight .kd,.tok-kd {
   font-weight: bold;
 }
 
-.highlight .kn {
+.highlight .kn,.tok-kn {
   font-weight: bold;
 }
 
-.highlight .kp {
+.highlight .kp,.tok-kp {
   font-weight: bold;
 }
 
-.highlight .kr {
+.highlight .kr,.tok-kr {
   font-weight: bold;
 }
 
-.highlight .kt {
+.highlight .kt,.tok-kt {
   color: #458;
   font-weight: bold;
 }
 
-.highlight .m {
+.highlight .m,.tok-m {
   color: #099;
 }
 
-.highlight .s {
+.highlight .s,.tok-s {
   color: #d14;
 }
 
-.highlight .na {
+.highlight .na,.tok-na {
   color: #008080;
 }
 
-.highlight .nb {
+.highlight .nb,.tok-nb {
   color: #0086B3;
 }
 
-.highlight .nc {
+.highlight .nc,.tok-nc {
   color: #458;
   font-weight: bold;
 }
 
-.highlight .no {
+.highlight .no,.tok-no {
   color: #008080;
 }
 
-.highlight .ni {
+.highlight .ni,.tok-ni {
   color: #800080;
 }
 
-.highlight .ne {
+.highlight .ne,.tok-ne {
   color: #900;
   font-weight: bold;
 }
 
-.highlight .nf {
+.highlight .nf,.tok-nf {
   color: #900;
   font-weight: bold;
 }
 
-.highlight .nn {
+.highlight .nn,.tok-nn {
   color: #555;
 }
 
-.highlight .nt {
+.highlight .nt,.tok-nt {
   color: #000080;
 }
 
-.highlight .nv {
+.highlight .nv,.tok-nv {
   color: #008080;
 }
 
-.highlight .ow {
+.highlight .ow,.tok-ow {
   font-weight: bold;
 }
 
-.highlight .w {
+.highlight .w,.tok-w {
   color: #bbb;
 }
 
-.highlight .mf {
+.highlight .mf,.tok-mf {
   color: #099;
 }
 
-.highlight .mh {
+.highlight .mh,.tok-mh {
   color: #099;
 }
 
-.highlight .mi {
+.highlight .mi,.tok-mi {
   color: #099;
 }
 
-.highlight .mo {
+.highlight .mo,.tok-mo {
   color: #099;
 }
 
-.highlight .sb {
+.highlight .sb,.tok-sb {
   color: #d14;
 }
 
-.highlight .sc {
+.highlight .sc,.tok-sc {
   color: #d14;
 }
 
-.highlight .sd {
+.highlight .sd,.tok-sd {
   color: #d14;
 }
 
-.highlight .s2 {
+.highlight .s2,.tok-s2 {
   color: #d14;
 }
 
-.highlight .se {
+.highlight .se,.tok-se {
   color: #d14;
 }
 
-.highlight .sh {
+.highlight .sh,.tok-sh {
   color: #d14;
 }
 
-.highlight .si {
+.highlight .si,.tok-si {
   color: #d14;
 }
 
-.highlight .sx {
+.highlight .sx,.tok-sx {
   color: #d14;
 }
 
-.highlight .sr {
+.highlight .sr,.tok-sr {
   color: #009926;
 }
 
-.highlight .s1 {
+.highlight .s1,.tok-s1 {
   color: #d14;
 }
 
-.highlight .ss {
+.highlight .ss,.tok-ss {
   color: #990073;
 }
 
-.highlight .bp {
+.highlight .bp,.tok-bp {
   color: #999;
 }
 
-.highlight .vc {
+.highlight .vc,.tok-vc {
   color: #008080;
 }
 
-.highlight .vg {
+.highlight .vg,.tok-vg {
   color: #008080;
 }
 
-.highlight .vi {
+.highlight .vi,.tok-vi {
   color: #008080;
 }
 
-.highlight .il {
+.highlight .il,.tok-il {
   color: #099;
 }
 
-.highlight .gc {
+.highlight .gc,.tok-gc {
   color: #999;
   background-color: #EAF2F5;
 }
 
-.type-csharp .highlight .k {
+.type-csharp .highlight .k,.tok-k {
   color: #00F;
 }
 
-.type-csharp .highlight .kt {
+.type-csharp .highlight .kt,.tok-kt {
   color: #00F;
 }
 
-.type-csharp .highlight .nf {
+.type-csharp .highlight .nf,.tok-nf {
   color: #000;
   font-weight: normal;
 }
 
-.type-csharp .highlight .nc {
+.type-csharp .highlight .nc,.tok-nc {
   color: #2B91AF;
 }
 
-.type-csharp .highlight .nn {
+.type-csharp .highlight .nn,.tok-nn {
   color: #000;
 }
 
-.type-csharp .highlight .s {
+.type-csharp .highlight .s,.tok-s {
   color: #A31515;
 }
 
-.type-csharp .highlight .sc {
+.type-csharp .highlight .sc,.tok-sc {
   color: #A31515;
 }
+
